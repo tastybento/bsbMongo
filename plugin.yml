@@ -1,0 +1,8 @@
+name: BsbMongo
+main: us.tastybento.bskyblock.BsbMongo
+version: ${version}
+
+authors: [tastybento]
+
+load: startup
+loadbefore: [BSkyBlock]
